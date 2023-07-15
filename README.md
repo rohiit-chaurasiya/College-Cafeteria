@@ -6,5 +6,5 @@ Git Clone this repo - git clone https://github.com/RohitAayushmaan/College-Cafet
 Install all requirments(Libraries) 
  
 Run CollegeCafeteria.py 
-
+ 
  
